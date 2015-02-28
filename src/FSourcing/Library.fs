@@ -1,4 +1,4 @@
-﻿namespace FSharp.ProjectTemplate
+namespace FSourcing
 
 /// Documentation for my library
 ///

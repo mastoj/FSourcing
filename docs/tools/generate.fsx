@@ -4,19 +4,19 @@
 // --------------------------------------------------------------------------------------
 
 // Binaries that have XML documentation (in a corresponding generated XML file)
-let referenceBinaries = [ "##ProjectName##.dll" ]
+let referenceBinaries = [ "FSourcing.dll" ]
 // Web site location for the generated documentation
-let website = "/##ProjectName##"
+let website = "/FSourcing"
 
-let githubLink = "http://github.com/##GitHome##/##GitName##"
+let githubLink = "http://github.com/mastoj/FSourcing"
 
 // Specify more information about your project
 let info =
-  [ "project-name", "##ProjectName##"
-    "project-author", "##Author##"
-    "project-summary", "##Summary##"
+  [ "project-name", "FSourcing"
+    "project-author", "Tomas Jansson"
+    "project-summary", "Some general concepts for an event sourced application in fsharp"
     "project-github", githubLink
-    "project-nuget", "http://nuget.org/packages/##ProjectName##" ]
+    "project-nuget", "http://nuget.org/packages/FSourcing" ]
 
 // --------------------------------------------------------------------------------------
 // For typical project, no changes are needed below
