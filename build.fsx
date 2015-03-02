@@ -42,7 +42,7 @@ let description = "Building any application involves writing some boring general
 let authors = [ "Tomas Jansson" ]
 
 // Tags for your project (for NuGet package)
-let tags = "CQRS, Event Sourcing"
+let tags = "CQRS, Event Sourcing, fsharp"
 
 // File system information 
 let solutionFile  = "FSourcing.sln"

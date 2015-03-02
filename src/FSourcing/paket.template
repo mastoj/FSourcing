@@ -14,7 +14,7 @@ requireLicenseAcceptance
 copyright
     Copyright 2015
 tags
-    CQRS, Event Sourcing
+    CQRS, Event Sourcing, fsharp, F#
 summary
     Some general concepts for an event sourced application in fsharp
 description
